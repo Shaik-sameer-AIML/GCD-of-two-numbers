@@ -17,6 +17,7 @@ To write a program to find the GCD of two numbers using function.
 ```
 /*
 Program to find the gcd of two number using function.
+<<<<<<< HEAD
 Developed by:N.Niharikha 
 RegisterNumber: 21500912
 */
@@ -33,6 +34,36 @@ def gcd():
 
 ## Output:
 ![OUTPUT]()
+=======
+Developed by:shaik sameer
+RegisterNumber:  21003881
+*/
+```
+def gcd():
+
+n1=int(input())
+
+n2=int(input())
+
+if(n1>n2):
+
+smaller=n2
+
+else:
+
+smaller=n1
+
+for i in range(1,smaller+1):
+
+if(n1%i==0 and n2%i==0):
+
+GCD=i
+
+print("GCD of two numbers is:",GCD)
+
+## Output:
+![output](https://github.com/Shaik-sameer-AIML/GCD-of-two-numbers/blob/main/gcd.JPG?raw=true)
+>>>>>>> 93ee8617c72b11718335ac3f8af75f6dc92e271a
 
 
 ## Result:
