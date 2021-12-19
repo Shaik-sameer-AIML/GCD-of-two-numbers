@@ -17,35 +17,17 @@ To write a program to find the GCD of two numbers using function.
 ```
 /*
 Program to find the gcd of two number using function.
-<<<<<<< HEAD
-Developed by:N.Niharikha 
-RegisterNumber: 21500912
-*/
-```
-def gcd_recursive(x,y):
-    rem = x%y
-    if (rem == 0):
-        return y
-    else:
-        return gcd_recursive(y,rem)
-def gcd():
-    n,m=int(input()),int(input())
-    print("GCD of two numbers is:",gcd_recursive(n,m))
-
-## Output:
-![OUTPUT]()
-=======
-Developed by:shaik sameer
-RegisterNumber:  21003881
+Developed :A.Sai bandhavi 
+RegisterNumber: 21005573
 */
 ```
 def gcd():
-
 n1=int(input())
+
 
 n2=int(input())
 
-if(n1>n2):
+if(n1>n2): 
 
 smaller=n2
 
@@ -62,8 +44,7 @@ GCD=i
 print("GCD of two numbers is:",GCD)
 
 ## Output:
-![output](https://github.com/Shaik-sameer-AIML/GCD-of-two-numbers/blob/main/gcd.JPG?raw=true)
->>>>>>> 93ee8617c72b11718335ac3f8af75f6dc92e271a
+![OUTPUT](https://github.com/naramala-niharika/GCD-of-two-numbers/blob/main/gcd.jpeg?raw=true)
 
 
 ## Result:
