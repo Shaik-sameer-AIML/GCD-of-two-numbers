@@ -46,7 +46,7 @@ print("GCD of two numbers is:",GCD)
 
 
 ## Output:
-![output](https://github.com/Saibandhavi75/GCD-of-two-numbers/blob/main/gcd%20of%20two%20numbers.jpeg?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/GCD-of-two-numbers/blob/main/Gcd.JPG?raw=true)
 
 
 ## Result:
